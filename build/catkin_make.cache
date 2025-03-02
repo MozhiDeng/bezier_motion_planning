@@ -1,0 +1,2 @@
+Btraj
+-DCATKIN_DEVEL_PREFIX=/home/car/Project/github_open/bezier_qp/devel -DCMAKE_INSTALL_PREFIX=/home/car/Project/github_open/bezier_qp/install -G Unix Makefiles
